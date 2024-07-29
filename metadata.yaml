@@ -1,0 +1,18 @@
+title: Spatialite Routing Experiment
+description: A datasette experiment in routing with spatialite
+databases:
+  routing-sample:
+    title: Roads of Tuscany (Italy)
+    # canned queries live in metadata.yaml for datasette 0.x 
+    description: See Tutorial here → https://www.gaia-gis.it/fossil/libspatialite/wiki?name=VirtualRouting
+    queries:
+      01-shortest-path-car:
+      02-shortest-path-all:
+      03-multi-destination:
+      04-multi-destination-2:
+      05-isochrone-map-single:
+      06-isochrone-map-multi:
+      07-isochrone-map-custom:
+      08-isochrone-or-targets:
+      09-isochrone-trails-black:
+      10-isochrone-trails-colored:

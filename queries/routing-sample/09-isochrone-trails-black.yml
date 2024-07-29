@@ -1,0 +1,8 @@
+title: Isochrone Trails
+descripion: | 
+    Show roads by walking distance (cost).
+    Enter start node and walking distance below.
+hide_sql: true
+params:
+    - node_id
+    - distance

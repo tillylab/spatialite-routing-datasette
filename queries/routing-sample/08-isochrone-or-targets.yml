@@ -1,0 +1,10 @@
+title: isochrone or targets
+description: |
+  This query shows all points that can be reached from node 10.000 by foot 
+  at a distance of 1000 meters.
+  It shows a combined geometry made up of the start marker and a the target hull or the start
+  marker and the target makers.
+hide_sql: true
+params: 
+
+  - show_targets

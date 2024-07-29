@@ -1,0 +1,8 @@
+title: Isochronous Trails (colored)
+descripion: | 
+    Show roads colored by walking distance (cost).
+    Enter start node and walking distance below.
+hide_sql: true
+params:
+    - node_id
+    - distance

@@ -1,0 +1,7 @@
+title: Isochrone Map (custom distance)
+description: |
+  How far can we get by walking?
+  Enter your walking distance below.
+hide_sql: true
+params:
+  - distance

@@ -1,0 +1,6 @@
+title: Multi-Destination Routing 2
+description: |
+    Route towards multiple destinations in one go. 
+    (using JOIN ALL to collect geometric objects for 
+    routes, start markers and end markers in the geometry column)
+hide_sql: true

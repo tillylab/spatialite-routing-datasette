@@ -1,0 +1,3 @@
+title: Classic Shortest Path (several routes)
+description: Use the virtual routing table to find the fastest route by car (fat blue line), the reverse route (fat red line) and the shortest road by foot (thin black line)
+hide_sql: true

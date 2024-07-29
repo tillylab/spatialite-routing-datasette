@@ -1,0 +1,5 @@
+title: Multi-Destination Routing
+description: |
+  Route towards multiple destinations in one go
+  combining geometric objects with ST_Collect.
+hide_sql: true
